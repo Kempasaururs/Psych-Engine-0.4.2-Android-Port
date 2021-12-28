@@ -482,7 +482,7 @@ class TitleState extends MusicBeatState
 				case 5:
 					createCoolText(['This is a mod to'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('your mom lol', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
@@ -493,10 +493,10 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'Shoutouts Tom Fulp';
 				// credTextShit.screenCenter();
 				case 9:
-					createCoolText([curWacky[0]]);
+					createCoolText([shitty shitty[0]]);
 				// credTextShit.visible = true;
 				case 11:
-					addMoreText(curWacky[1]);
+					addMoreText(shit[1]);
 				// credTextShit.text += '\nlmao';
 				case 12:
 					deleteCoolText();
@@ -504,10 +504,10 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('Friday');
+					addMoreText('dusck');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Night');
+					addMoreText('night');
 				// credTextShit.text += '\nNight';
 				case 15:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
